@@ -1,7 +1,7 @@
 # Java-create-table-to-display-the-followiong-details
 
 ## AIM:
-To Write a program that would print the information (name, year of joining, salary, address) of three employees by creating a class named 'Employee'. The output should be as follows:
+To Write a program that would print the information (name, year of joining, salary, address) of three employees by creating a class named 'Employee'.
 ```
  Name           Year of joining              Address
 Robert                1994                           64C- WallsStreat
