@@ -69,5 +69,7 @@ John           1999           26B- WallsStreat
 
 Process finished with exit code 0
 ```
+## RESULT:
 
+Thus, the java program to display the details of the employees have been created and the output is verified.
 
