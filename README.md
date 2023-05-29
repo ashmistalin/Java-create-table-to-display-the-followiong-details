@@ -9,6 +9,17 @@ Sam                    2000                           68D- WallsStreat
 John                    1999                            26B- WallsStreat
 ```
 
+## PROCEDURE:
+
+1. Define a class named "Employees".
+2. Inside the "Employees" class, define three methods: "emp1", "emp2", and "emp3".
+3. In the emp1,emp2 and emp3 methods declare the variables and add their values.
+4. Define another class named "Main".
+5. Inside the "Main" class, define a main method, inside the main method:
+6. Print the header line "Name Year of joining Address" using the System.out.println statement.
+7. Create an instance of the "Employees" class named "e".
+8. Call the emp1,emp2 and emp3 methods on the "e" object to print the details of the first, second and third employee.
+9. End the program execution.
 ## PROGRAM:
 ```
 public class Employees{
